@@ -1,7 +1,9 @@
 # Vegan-WebSite
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
+![viewfinal]
 
+![view final]
 
 - [Demo Project](https://pooneh-farzad.github.io/Vegan-WebSite/)
 
